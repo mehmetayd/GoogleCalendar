@@ -1,0 +1,26 @@
+﻿@*<!DOCTYPE html>
+
+@using Calendar
+@model IEnumerable<Google.Apis.Calendar.v3.Data.Event>
+
+@{
+    Layout = null;
+}
+
+
+<html>
+<body>
+
+    <form method="post" enctype="multipart/form-data" asp-controller="EftController" asp-action="Index">
+
+        <tr>
+            <td>Başlangıç Tarihi: </td>
+            <td><input type="datetime-local" id="EftTarih" name="EftTarih" /></td>
+        </tr>
+        <td></td>
+        <td><input type="submit" name="submitButton" value="Eft Hesapla" /></td>
+        </tr>
+        </table>
+        <hr />
+</body>
+</html>*@
