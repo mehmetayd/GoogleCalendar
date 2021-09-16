@@ -14,7 +14,7 @@ namespace Calendar.Controllers
     public class HomeController : Controller
     {
         //static List<Toplanti> toplantiListesi = new List<Toplanti>();
-        static MyCalendarService myCalendarService = new MyCalendarService();
+        public static MyCalendarService myCalendarService = new MyCalendarService();
 
         public IActionResult Index()
         {
@@ -70,28 +70,16 @@ namespace Calendar.Controllers
 
         public IList<Event> ToplantiListele()
         {
-            EFTControl(new DateTime(2021, 10 , 29));
+            //EFTControl(new DateTime(2021, 10 , 29));
 
             return myCalendarService.ToplantilariGetir().Items;
         }
 
-        //bunu yaptım!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
         public IList<Event> TatilGunuGetir()
         {
             return myCalendarService.TatilGunleriniGetir().Items;
         }
-
-        /*önce tarihleri getir CalendarService'ten
-	parametreyle gelen tatiller içerisinde mi bak
-		if içindeyse bir gün ilerlet.(BAŞA DÖN)
-		else değilse devam et aşağı
-
-	     parametre tarihinin gününü al(DayOfWeek)
-		  if "Saturday" veya "Sunday" ise bir gün ilerlet(AddDays(1)).(BAŞA DÖN)
-		  else devam et.
-
-	hiç ilerleme yapmadıysan saate bak, 17:00'dan sonraysa ilerle.(BAŞA DÖN)
-	""	""	""	""	"", değilse EFT BUGÜN !!!!!*/
 
         public bool EFTControl(DateTime tarih)
         {
@@ -117,3 +105,40 @@ namespace Calendar.Controllers
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*önce tarihleri getir CalendarService'ten
+parametreyle gelen tatiller içerisinde mi bak
+if içindeyse bir gün ilerlet.(BAŞA DÖN)
+else değilse devam et aşağı
+
+ parametre tarihinin gününü al(DayOfWeek)
+  if "Saturday" veya "Sunday" ise bir gün ilerlet(AddDays(1)).(BAŞA DÖN)
+  else devam et.
+
+hiç ilerleme yapmadıysan saate bak, 17:00'dan sonraysa ilerle.(BAŞA DÖN)
+""	""	""	""	"", değilse EFT BUGÜN !!!!!*/

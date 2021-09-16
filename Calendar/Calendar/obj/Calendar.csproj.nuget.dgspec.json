@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehme\\source\\repos\\Calendar\\Calendar\\Calendar.csproj": {}
+    "C:\\Users\\mehme\\Documents\\GitHub\\GoogleCalendar\\Calendar\\Calendar\\Calendar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehme\\source\\repos\\Calendar\\Calendar\\Calendar.csproj": {
+    "C:\\Users\\mehme\\Documents\\GitHub\\GoogleCalendar\\Calendar\\Calendar\\Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehme\\source\\repos\\Calendar\\Calendar\\Calendar.csproj",
+        "projectUniqueName": "C:\\Users\\mehme\\Documents\\GitHub\\GoogleCalendar\\Calendar\\Calendar\\Calendar.csproj",
         "projectName": "Calendar",
-        "projectPath": "C:\\Users\\mehme\\source\\repos\\Calendar\\Calendar\\Calendar.csproj",
+        "projectPath": "C:\\Users\\mehme\\Documents\\GitHub\\GoogleCalendar\\Calendar\\Calendar\\Calendar.csproj",
         "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehme\\source\\repos\\Calendar\\Calendar\\obj\\",
+        "outputPath": "C:\\Users\\mehme\\Documents\\GitHub\\GoogleCalendar\\Calendar\\Calendar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
