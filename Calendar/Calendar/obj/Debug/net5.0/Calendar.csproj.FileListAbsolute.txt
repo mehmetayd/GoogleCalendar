@@ -246,3 +246,4 @@ C:\Users\mehme\Documents\GitHub\GoogleCalendar\Calendar\Calendar\obj\Debug\net5.
 C:\Users\mehme\Documents\GitHub\GoogleCalendar\Calendar\Calendar\obj\Debug\net5.0\Calendar.genruntimeconfig.cache
 C:\Users\mehme\Documents\GitHub\GoogleCalendar\Calendar\Calendar\obj\Debug\net5.0\Razor\Views\Para\Index.cshtml.g.cs
 C:\Users\mehme\Documents\GitHub\GoogleCalendar\Calendar\Calendar\obj\Debug\net5.0\Calendar.csproj.AssemblyReference.cache
+C:\Users\mehme\Documents\GitHub\GoogleCalendar\Calendar\Calendar\obj\Debug\net5.0\Razor\Views\Home\SingleQuery.cshtml.g.cs

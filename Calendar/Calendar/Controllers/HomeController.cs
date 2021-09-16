@@ -39,8 +39,8 @@ namespace Calendar.Controllers
                 case "Toplantı Listele":
                     return View(ToplantiListele());
 
-                case "Tatil günü getir":
-                    return View(TatilGunuGetir());
+                //case "Tatil günü getir":
+                //    return View(TatilGunuGetir());
             }
 
             return View();
@@ -76,18 +76,18 @@ namespace Calendar.Controllers
         }
 
 
-        public IList<Event> TatilGunuGetir()
+        public IList<Event> TatilGunuGetir(DateTime queryStartDate, DateTime queryEndDate)
         {
-            return myCalendarService.TatilGunleriniGetir().Items;
+            return myCalendarService.TatilGunleriniGetir(queryStartDate, queryEndDate).Items;
         }
 
         public bool EFTControl(DateTime tarih)
         {
-            List<Event> tatilGunleri = TatilGunuGetir().ToList();
+            List<Event> tatilGunleri = new List<Event>(); // TatilGunuGetir().ToList();
 
             List<Event> filtered = tatilGunleri.FindAll(e => e.Start.Date.Equals(tarih.ToString("yyyy-MM-dd")));
 
-            if (filtered.Count != 0 || tarih.Date.DayOfWeek.ToString().Equals("Saturday") || tarih.Date.DayOfWeek.ToString().Equals("Sunday"))
+            if (filtered.Count != 0 || tarih.Date.DayOfWeek == DayOfWeek.Saturday || tarih.Date.DayOfWeek.ToString().Equals("Sunday"))
             {
                 //tarih = tarih.AddDays(1);
                 return EFTControl(tarih.AddDays(1));
@@ -103,6 +103,54 @@ namespace Calendar.Controllers
             return true;
         }
 
+        [HttpGet]
+        public IActionResult SingleQuery()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult SingleQuery(DateTime queryDate)
+        {
+            return Json(QueryWorkDay(queryDate));
+        }
+
+        public bool QueryWorkDay(DateTime queryDate)
+        {
+            var holidays = new List<DateTime>();
+
+            var queryStartDate = queryDate.Date;
+            var queryEndDate = queryDate.Date;
+
+            // weekend
+            var loopDate = queryStartDate;
+            while(loopDate <= queryEndDate)
+            {
+                if (loopDate.DayOfWeek == DayOfWeek.Saturday || loopDate.DayOfWeek == DayOfWeek.Sunday)
+                    holidays.Add(loopDate);
+
+                loopDate = loopDate.AddDays(1);
+            }
+
+            // google service query
+            var holidayEvents = TatilGunuGetir(queryStartDate, queryEndDate);
+
+            foreach(var holidayEvent in holidayEvents)
+            {
+                var startDate = DateTime.Parse(holidayEvent.Start.Date);
+                var endDate = DateTime.Parse(holidayEvent.End.Date);
+
+                while(startDate != endDate)
+                {
+                    if (!holidays.Contains(startDate))
+                        holidays.Add(startDate);
+
+                    startDate = startDate.AddDays(1);
+                }
+            }
+
+            return !holidays.Contains(queryDate.Date);
+        }
     }
 }
 

@@ -33,7 +33,8 @@ namespace Calendar.Controllers
 
         public IList<Event> TatilGunuGetir()
         {
-            return HomeController.myCalendarService.TatilGunleriniGetir().Items;
+            return new List<Event>();
+            //return HomeController.myCalendarService.TatilGunleriniGetir().Items;
         }
             /*önce tarihleri getir CalendarService'ten
         parametreyle gelen tatiller içerisinde mi bak

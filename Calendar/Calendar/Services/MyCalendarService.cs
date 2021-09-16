@@ -128,10 +128,11 @@ namespace Calendar.Services
             return events;
         }
         // TatilGunleriniGetir yaptım!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-        public Events TatilGunleriniGetir()
+        public Events TatilGunleriniGetir(DateTime queryStartDate, DateTime queryEndDate)
         {
             EventsResource.ListRequest listRequest = service.Events.List(tatilGunleriCalendarId);
-            listRequest.TimeMin = new DateTime(2021, 1, 1, 0, 0, 0);
+            listRequest.TimeMin = queryStartDate;
+            listRequest.TimeMax = queryEndDate;
             listRequest.ShowDeleted = false;
             listRequest.SingleEvents = true;
             //listRequest.MaxResults = 10;
