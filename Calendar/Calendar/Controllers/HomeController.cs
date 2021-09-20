@@ -75,7 +75,7 @@ namespace Calendar.Controllers
             return myCalendarService.ToplantilariGetir().Items;
         }
 
-
+        //alttaki parantez içini anlamadım
         public IList<Event> TatilGunuGetir(DateTime queryStartDate, DateTime queryEndDate)
         {
             return myCalendarService.TatilGunleriniGetir(queryStartDate, queryEndDate).Items;

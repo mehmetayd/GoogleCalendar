@@ -14,7 +14,9 @@
     <form method="post" enctype="multipart/form-data" asp-controller="Home">
         <label>Başlangıç Tarihi: </label>
         <input type="datetime-local" id="queryDate" name="queryDate" />
-        <input type="submit" name="submitButton" value="İş Günü mü?" />
+        <label>Bitiş Tarihi: </label>
+        <input type="datetime-local" id="_queryDate" name="queryDate" />
+        <input type="submit" name="submitButton" value="Arasındaki iş günlerini getir?" />
     </form>
 </body>
 </html>
