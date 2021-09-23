@@ -112,23 +112,31 @@ namespace Calendar.Controllers
         [HttpPost]
         public IActionResult SingleQuery(DateTime queryDate)
         {
-            return Json(QueryWorkDay(queryDate));
+            return Json(QueryWorkDay(queryDate.AddDays(-1), queryDate.AddDays(1)));
         }
 
-        public bool QueryWorkDay(DateTime queryDate)
+        [HttpPost]
+        public IActionResult RangeQuery(DateTime queryStartDate, DateTime queryEndDate)
         {
+            return Json(QueryWorkDay(queryStartDate.AddDays(-1), queryEndDate.AddDays(1)));
+        }
+
+        public bool QueryWorkDay(DateTime queryStartDate, DateTime queryEndDate)
+        {
+            var rangeList = new List<DateTime>();
             var holidays = new List<DateTime>();
 
-            var queryStartDate = queryDate.Date;
-            var queryEndDate = queryDate.Date;
+            queryStartDate = queryStartDate.Date;
+            queryEndDate = queryEndDate.Date;
 
-            // weekend
+            // handle range population and weekends
             var loopDate = queryStartDate;
             while(loopDate <= queryEndDate)
             {
                 if (loopDate.DayOfWeek == DayOfWeek.Saturday || loopDate.DayOfWeek == DayOfWeek.Sunday)
                     holidays.Add(loopDate);
 
+                rangeList.Add(loopDate);
                 loopDate = loopDate.AddDays(1);
             }
 
@@ -149,7 +157,7 @@ namespace Calendar.Controllers
                 }
             }
 
-            return !holidays.Contains(queryDate.Date);
+            return !rangeList.Intersect(holidays).Any();
         }
     }
 }
