@@ -108,6 +108,10 @@ namespace Calendar.Controllers
         {
             return View();
         }
+        public IActionResult RangeQuery()
+        {
+            return View();
+        }
 
         [HttpPost]
         public IActionResult SingleQuery(DateTime queryDate)
