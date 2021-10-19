@@ -1,0 +1,309 @@
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\testhost.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Calendar.Views.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Calendar.Views.pdb
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Calendar.deps.json
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Calendar.runtimeconfig.json
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Calendar.runtimeconfig.dev.json
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\appsettings.json
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ezoteric-stream-318615-91d29934ede4.json
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Calendar.exe
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\testhost.exe
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.deps.json
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.runtimeconfig.json
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.runtimeconfig.dev.json
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ref\CalendarAPI Tests.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.pdb
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Humanizer.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.core.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Calendar.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Calendar.pdb
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.AssemblyInfo.cs
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.csproj.CopyComplete
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\ref\CalendarAPI Tests.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.pdb
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.genruntimeconfig.cache
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adm\Desktop\Calendar\GoogleCalendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\testhost.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\testhost.exe
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.deps.json
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.runtimeconfig.json
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ref\CalendarAPI Tests.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarAPI Tests.pdb
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.core.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.csproj.CopyComplete
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\ref\CalendarAPI Tests.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.pdb
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\obj\Debug\net5.0\CalendarAPI Tests.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\Integration\ezoteric-stream-318615-91d29934ede4.json
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarApi.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarAPI Tests\bin\Debug\net5.0\CalendarApi.pdb

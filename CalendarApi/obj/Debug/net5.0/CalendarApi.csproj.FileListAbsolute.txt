@@ -1,0 +1,12 @@
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\bin\Debug\net5.0\Integration\ezoteric-stream-318615-91d29934ede4.json
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\bin\Debug\net5.0\CalendarApi.deps.json
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\bin\Debug\net5.0\CalendarApi.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\bin\Debug\net5.0\ref\CalendarApi.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\bin\Debug\net5.0\CalendarApi.pdb
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\obj\Debug\net5.0\CalendarApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\obj\Debug\net5.0\CalendarApi.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\obj\Debug\net5.0\CalendarApi.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\obj\Debug\net5.0\CalendarApi.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\obj\Debug\net5.0\CalendarApi.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\obj\Debug\net5.0\ref\CalendarApi.dll
+C:\Users\mehme\Desktop\Calendar\Calendar\CalendarApi\obj\Debug\net5.0\CalendarApi.pdb
