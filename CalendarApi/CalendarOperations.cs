@@ -15,26 +15,26 @@ namespace CalendarApi
 
             var googleCalendarService = new GoogleCalendarService();
 
-            //var googleHolidayEvents = googleCalendarService
-            //    .GetHolidays(queryStartDate, queryEndDate)
-            //    .Items
-            //    .Where(item => !item.Summary.ToLowerInvariant().Contains("yılbaşı gecesi".ToLowerInvariant()));
-
-            var googleHolidayEvents = googleCalendarService
-               .GetHolidays(queryStartDate, queryEndDate)
-               .Items;
+            var googleHolidayEvents = from googleEvent in googleCalendarService
+                                                            .GetHolidays(queryStartDate, queryEndDate)
+                                                            .Items
+                                      let date = DateTime.Parse(googleEvent.Start.Date).Date
+                                      where !(date.Month == 12 && date.Day == 31)
+                                      select googleEvent;
 
             var results = new List<CalendarDay>();
 
             foreach (var googleEvent in googleHolidayEvents)
             {
+                var date = DateTime.Parse(googleEvent.Start.Date).Date;
+
                 results.Add
                 (
                     new CalendarDay
                     (
-                        DateTime.Parse(googleEvent.Start.Date).Date,
+                        date,
                         googleEvent.Summary.ToLowerInvariant().Contains("Arifesi".ToLowerInvariant()) ||
-                        googleEvent.Summary.ToLowerInvariant().Contains("gecesi".ToLowerInvariant())
+                        !(date.Month == 12 && date.Day == 31)
                     )
                 );
             }
@@ -117,21 +117,5 @@ namespace CalendarApi
                 .OrderBy(calendarDay => calendarDay.Date)
                 .Take(count);
         }
-
-
-
-
-        //public Events HalfDay(DateTime queryStartDate, DateTime queryEndDate)
-        //{
-        //    EventsResource.ListRequest listRequest = service.Events.List(tatilGunleriCalendarId);
-        //    listRequest.TimeMin = queryStartDate;
-        //    listRequest.TimeMax = queryEndDate;
-        //    if (listRequest.Fields.Contains("bayram") || listRequest.Fields.Contains("yılbaşı") || listRequest.Fields.Contains("cumhuriyet"))
-        //    {
-        //        Events events = listRequest.Execute();
-        //        return events;
-        //    }
-
-        //}
     }
 }

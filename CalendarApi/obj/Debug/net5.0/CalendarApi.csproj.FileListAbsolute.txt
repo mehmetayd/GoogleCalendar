@@ -22,3 +22,15 @@ C:\Users\adm\Desktop\Calender lası\GoogleCalendar\CalendarApi\obj\Debug\net5.0\
 C:\Users\adm\Desktop\Calender lası\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.dll
 C:\Users\adm\Desktop\Calender lası\GoogleCalendar\CalendarApi\obj\Debug\net5.0\ref\CalendarApi.dll
 C:\Users\adm\Desktop\Calender lası\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.pdb
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\bin\Debug\net5.0\Integration\ezoteric-stream-318615-91d29934ede4.json
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\bin\Debug\net5.0\CalendarApi.deps.json
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\bin\Debug\net5.0\CalendarApi.dll
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\bin\Debug\net5.0\ref\CalendarApi.dll
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\bin\Debug\net5.0\CalendarApi.pdb
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.AssemblyInfoInputs.cache
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.AssemblyInfo.cs
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.csproj.CoreCompileInputs.cache
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.dll
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\ref\CalendarApi.dll
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.pdb
