@@ -8,17 +8,21 @@ namespace CalendarApi
 {
     public class CalendarOperations
     {
-        public IList<CalendarDay> GetHolidays(DateTime startDate, DateTime endDate)
+        public IList<CalendarDay> GetHolidays(DateTime startDate, DateTime endDate)    // IReadOnlyList
         {
             var queryStartDate = startDate.Date;
             var queryEndDate = endDate.Date.AddDays(1);
 
             var googleCalendarService = new GoogleCalendarService();
 
+            //var googleHolidayEvents = googleCalendarService
+            //    .GetHolidays(queryStartDate, queryEndDate)
+            //    .Items
+            //    .Where(item => !item.Summary.ToLowerInvariant().Contains("yılbaşı gecesi".ToLowerInvariant()));
+
             var googleHolidayEvents = googleCalendarService
-                .GetHolidays(queryStartDate, queryEndDate)
-                .Items
-                .Where(item => !item.Summary.ToLowerInvariant().Contains("yılbaşı gecesi".ToLowerInvariant()));
+               .GetHolidays(queryStartDate, queryEndDate)
+               .Items;
 
             var results = new List<CalendarDay>();
 
@@ -82,7 +86,7 @@ namespace CalendarApi
 
             return results;
         }
-
+        
         public CalendarDay GetWorkDay(DateTime date)
         {
             return GetWorkDays(date, date).SingleOrDefault();
