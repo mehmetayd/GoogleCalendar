@@ -34,3 +34,4 @@ C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\Calenda
 C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.dll
 C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\ref\CalendarApi.dll
 C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.pdb
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.csproj.AssemblyReference.cache

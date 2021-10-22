@@ -19,7 +19,8 @@ namespace CalendarApi
                                                             .GetHolidays(queryStartDate, queryEndDate)
                                                             .Items
                                       let date = DateTime.Parse(googleEvent.Start.Date).Date
-                                      where !(date.Month == 12 && date.Day == 31)
+                                      where !(date.Month == 12 && date.Day == 31) &&
+                                            !(date.Month == 11 && date.Day == 10)
                                       select googleEvent;
 
             var results = new List<CalendarDay>();
@@ -33,8 +34,7 @@ namespace CalendarApi
                     new CalendarDay
                     (
                         date,
-                        googleEvent.Summary.ToLowerInvariant().Contains("Arifesi".ToLowerInvariant()) ||
-                        !(date.Month == 12 && date.Day == 31)
+                        googleEvent.Summary.ToLowerInvariant().Contains("Arifesi".ToLowerInvariant())
                     )
                 );
             }
@@ -86,7 +86,7 @@ namespace CalendarApi
 
             return results;
         }
-        
+
         public CalendarDay GetWorkDay(DateTime date)
         {
             return GetWorkDays(date, date).SingleOrDefault();
@@ -106,16 +106,44 @@ namespace CalendarApi
             var calendarDays = GetWorkDays(startDate, endDate.AddDays(offset));
 
             // worst-case scenario
-            while (calendarDays.Count() < count)
+            while (GetDayCount(calendarDays) < (double)count)
             {
                 offset += 7;
 
                 calendarDays = GetWorkDays(startDate, endDate.AddDays(offset));
             }
 
-            return calendarDays
-                .OrderBy(calendarDay => calendarDay.Date)
-                .Take(count);
+            calendarDays = calendarDays.OrderBy(calendarDay => calendarDay.Date);
+
+            var counter = 0;
+            var selectedDays = Enumerable.Empty<CalendarDay>();
+            while(true)
+            {
+                selectedDays = calendarDays.Take(counter);
+
+                var counted = GetDayCount(selectedDays);
+
+                if (counted >= count)
+                    break;
+
+                counter++;
+            }
+
+            return selectedDays;
+        }
+
+        private double GetDayCount(IEnumerable<CalendarDay> calendarDays)
+        {
+            var calendarDayCount = 0.0d;
+
+            foreach (var calendarDay in calendarDays)
+            {
+                calendarDayCount += calendarDay.IsHalf
+                    ? 0.5d
+                    : 1.0d;
+            }
+
+            return calendarDayCount;
         }
     }
 }
