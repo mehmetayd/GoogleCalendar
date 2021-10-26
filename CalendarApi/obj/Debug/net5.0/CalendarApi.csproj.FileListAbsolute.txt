@@ -34,6 +34,7 @@ C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\Calenda
 C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.dll
 C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\ref\CalendarApi.dll
 C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.pdb
+<<<<<<< HEAD
 C:\Users\adm\Desktop\Calender lası\GoogleCalendar\GoogleCalendar\CalendarApi\bin\Debug\net5.0\Integration\ezoteric-stream-318615-91d29934ede4.json
 C:\Users\adm\Desktop\Calender lası\GoogleCalendar\GoogleCalendar\CalendarApi\bin\Debug\net5.0\CalendarApi.deps.json
 C:\Users\adm\Desktop\Calender lası\GoogleCalendar\GoogleCalendar\CalendarApi\bin\Debug\net5.0\CalendarApi.dll
@@ -46,3 +47,6 @@ C:\Users\adm\Desktop\Calender lası\GoogleCalendar\GoogleCalendar\CalendarApi\ob
 C:\Users\adm\Desktop\Calender lası\GoogleCalendar\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.dll
 C:\Users\adm\Desktop\Calender lası\GoogleCalendar\GoogleCalendar\CalendarApi\obj\Debug\net5.0\ref\CalendarApi.dll
 C:\Users\adm\Desktop\Calender lası\GoogleCalendar\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.pdb
+=======
+C:\Codebase\Github\mehmetayd\GoogleCalendar\CalendarApi\obj\Debug\net5.0\CalendarApi.csproj.AssemblyReference.cache
+>>>>>>> 023fd3cdeb984afd04dfdda427b5aa0d19d50a1b

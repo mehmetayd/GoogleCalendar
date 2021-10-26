@@ -70,9 +70,7 @@ namespace CalendarAPI_Tests
             calendarDays
                 .Count
                 .Should()
-                .BeGreaterOrEqualTo(count)
-                .And
-                .BeLessOrEqualTo(count + 1);
+                .BeGreaterOrEqualTo(count);
 
             foreach (var calendarDay in calendarDays)
                 ConsoleOutput.WriteLine(calendarDay.Date.ToString());
