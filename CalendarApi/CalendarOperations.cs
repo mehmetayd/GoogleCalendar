@@ -8,7 +8,7 @@ namespace CalendarApi
 {
     public class CalendarOperations
     {
-        public IList<CalendarDay> GetHolidays(DateTime startDate, DateTime endDate)    // IReadOnlyList
+        public IEnumerable<CalendarDay> GetHolidays(DateTime startDate, DateTime endDate)
         {
             var queryStartDate = startDate.Date;
             var queryEndDate = endDate.Date.AddDays(1);
@@ -44,7 +44,7 @@ namespace CalendarApi
 
         public IEnumerable<CalendarDay> GetWorkDays(DateTime startDate, DateTime endDate)
         {
-            var holidays = GetHolidays(startDate, endDate);
+            var holidays = GetHolidays(startDate, endDate).ToList();
 
             var rangeList = new List<DateTime>();
 

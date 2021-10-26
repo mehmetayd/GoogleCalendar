@@ -4,7 +4,7 @@ namespace CalendarApi.Model
 {
     public class CalendarDay
     {
-        public CalendarDay(DateTime date, bool isHalf)
+        internal CalendarDay(DateTime date, bool isHalf)
         {
             Date = date;
             IsHalf = isHalf;

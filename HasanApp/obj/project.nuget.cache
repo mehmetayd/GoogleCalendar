@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OYR1m+7aXnl9WbR86H5fH377tVLtGqID8aNLI+PLcmf+8F6X2Y+9YaPZ6kuJaDTKMiNhKHUo9fzspoVrVlauBg==",
+  "dgSpecHash": "oq0iFOxWZNET8nq9iLEhzth1mIj73MFtUHCajS5e+FKTqun/PlrewI8OxZkrzKhhvhLZ1wQuxlCyuZqhY7HXPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\CalendarApi\\CalendarApi.csproj",
+  "projectFilePath": "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\HasanApp\\HasanApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adm\\.nuget\\packages\\google.apis\\1.55.0\\google.apis.1.55.0.nupkg.sha512",
     "C:\\Users\\adm\\.nuget\\packages\\google.apis.auth\\1.55.0\\google.apis.auth.1.55.0.nupkg.sha512",

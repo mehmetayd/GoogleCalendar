@@ -62,6 +62,19 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "CalendarApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Google.Apis.Calendar.v3": "1.55.0.2410"
+        },
+        "compile": {
+          "bin/placeholder/CalendarApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalendarApi.dll": {}
+        }
       }
     }
   },
@@ -194,11 +207,16 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "CalendarApi/1.0.0": {
+      "type": "project",
+      "path": "../CalendarApi/CalendarApi.csproj",
+      "msbuildProject": "../CalendarApi/CalendarApi.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Google.Apis.Calendar.v3 >= 1.55.0.2410"
+      "CalendarApi >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -208,11 +226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\CalendarApi\\CalendarApi.csproj",
-      "projectName": "CalendarApi",
-      "projectPath": "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\CalendarApi\\CalendarApi.csproj",
+      "projectUniqueName": "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\HasanApp\\HasanApp.csproj",
+      "projectName": "HasanApp",
+      "projectPath": "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\HasanApp\\HasanApp.csproj",
       "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\CalendarApi\\obj\\",
+      "outputPath": "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\HasanApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -233,7 +251,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\CalendarApi\\CalendarApi.csproj": {
+              "projectPath": "C:\\Users\\adm\\Desktop\\Calender lası\\GoogleCalendar\\GoogleCalendar\\CalendarApi\\CalendarApi.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -245,12 +267,6 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
-        "dependencies": {
-          "Google.Apis.Calendar.v3": {
-            "target": "Package",
-            "version": "[1.55.0.2410, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
